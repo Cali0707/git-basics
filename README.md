@@ -5,3 +5,5 @@ So, if you want to get started contributing to open source, want to learn the ba
 
 The lessons are organized into directories by `XX-lesson-name`, where `XX` is a number. We recommend that you go through the lessons sequentially if you are new to git,
 however, for those with more experience you should be fine to jump ahead to whichever lesson interests you.
+
+Hello!
