@@ -7,3 +7,4 @@ The lessons are organized into directories by `XX-lesson-name`, where `XX` is a 
 however, for those with more experience you should be fine to jump ahead to whichever lesson interests you.
 
 Hello!
+Goodbye!
